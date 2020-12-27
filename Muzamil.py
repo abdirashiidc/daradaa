@@ -127,10 +127,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system(xdg-open https://m.youtube.com/channel/UCYiUs6rs_IuWcn5voPepc-A)
+            os.system('xdg-open https://m.youtube.com/channel/UCYiUs6rs_IuWcn5voPepc-A')
     else:
         print "Wrong Username"
-        os.system(xdg-openhttps://m.youtube.com/channel/UCYiUs6rs_IuWcn5voPepc-A)
+        os.system('xdg-openhttps://m.youtube.com/channel/UCYiUs6rs_IuWcn5voPepc-A')
 
 def login():
 	os.system('clear')
